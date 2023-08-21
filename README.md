@@ -9,8 +9,6 @@
 
 A simple sign in and sign up template built with React and Material UI. With complete input validation using formik and yup, making your life easy.
 
-![Product Preview][product-preview]
-
 - [Demo](https://auth-mui-template.vercel.app/)
 
 ### Built With
