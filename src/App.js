@@ -12,8 +12,8 @@ import Events from './pages/Events';
 import EventGame from './pages/EventGame';
 import recentlyended from './data/recentlyended.json';
 import trendgame from './data/trendgame.json';
-// import newgame from './data/newgame.json';
 import BrowserGames from './data/browsegames.json';
+import newgame from './data/newgame.json';
 
 const darkTheme = createTheme({
   palette: {
@@ -45,6 +45,9 @@ function App() {
           ))}
           {BrowserGames.games.map((element) => (
             <Route key={element.id} path={`/${element.handle}`} element={<GameDetail data={element} />} />
+          ))}
+          {newgame.gameListItems.map((element) => (
+            <Route key={element.project.id} path={`/${element.project.handle}`} element={<GameDetail data={element} />} />
           ))}
         </Routes>
       </ThemeProvider>

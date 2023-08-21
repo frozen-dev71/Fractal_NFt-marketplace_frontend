@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-// import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import ScrollMenu from 'react-horizontal-scrolling-menu';
 import Avatar from '@mui/material/Avatar';
 import ArrowRightIcon from '@mui/icons-material/ArrowRight';
@@ -19,27 +19,29 @@ const checkTranslate3dValue = () => {
   }
 }
 
-const NewCard = ({ key, imageUrl, title, selected }) => {
-  return (
-    <div className="menu-item">
-      <NewGameCard
-        key={key}
-        imageUrl={imageUrl}
-        title={title}
-      />
-    </div>
+const NewCard = ({ key, imageUrl, title, url }) => {
+
+  const navigate = useNavigate();
+  let flag = false;
+  return (<div className="menu-item" onMouseDown={() => flag = false} onMouseMove={(event) => { if (event.buttons === 1) flag = true; }} onMouseUp={() => !flag && navigate(`${url}`)}>
+    <NewGameCard
+      url={url}
+      key={key}
+      imageUrl={imageUrl}
+      title={title}
+    />
+  </div>
   );
 };
 
 export const New = (list) => list.map(el => {
   return (
-    // <Link to={`/${el.project.handle}`} style={{ textDecoration: 'none', color: "white" }}>
     <NewCard
+      url={el.project.handle}
       key={el.project.title}
       imageUrl={el.media.url}
       title={el.project.title}
     />
-    // </Link>
   );
 });
 

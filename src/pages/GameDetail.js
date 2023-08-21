@@ -157,7 +157,7 @@ const GameDetail = (props) => {
                         </Stack>
                         <Stack className={classes.stack_high}>
                             <h1 className={classes.title}>
-                                {props.data.name}
+                                {cs.title}
                             </h1>
                         </Stack>
                         <Stack sx={{ marginTop: "35px" }}>
