@@ -1,0 +1,58 @@
+.css-qoi9-MuiPaper-root-MuiAccordion-root {
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+.css-qoi9-MuiPaper-root-MuiAccordion-root:before {
+    background-color: transparent !important;
+}
+
+.css-qoi9-MuiPaper-root-MuiAccordion-root.Mui-expanded {
+    margin: 0 !important;
+}
+
+.css-1tmu6hb-MuiButtonBase-root-MuiAccordionSummary-root {
+    padding: 0 !important;
+}
+
+.css-mghcik-MuiButtonBase-root-MuiSwitch-switchBase {
+    padding-right: 0 !important;
+}
+
+.potato:hover .potato-checkbox {
+    visibility: visible;
+}
+
+.css-15v22id-MuiAccordionDetails-root {
+    padding: 0 !important;
+}
+
+.css-ahj2mt-MuiTypography-root {
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+.css-sxr8jb-MuiList-root {
+    background-color: transparent !important;
+}
+
+.css-55ha9s-MuiButtonBase-root-MuiButton-root {
+    border: 0.5px solid rgba(255, 255, 255, 0.5) !important;
+}
+
+.filter-body::-webkit-scrollbar {
+    width: 5px;
+    /* background-color: blue; */
+    /* Set the width of the scrollbar */
+}
+
+.filter-body::-webkit-scrollbar-thumb {
+    background-color: #413e3e;
+    /* Set the color of the scrollbar thumb */
+}
+
+.filter-body::-webkit-scrollbar-thumb:hover {
+    background-color: #555;
+    /* Set the color of the scrollbar thumb on hover */
+}

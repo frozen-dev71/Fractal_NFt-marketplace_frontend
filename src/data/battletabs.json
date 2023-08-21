@@ -1,0 +1,57 @@
+{
+    "data": {
+        "handle": "battletabs",
+        "title": "BattleTabs",
+        "description": "Battle your friends in this byte-sized game of strategy, wits, and luck. Be the first to sink all your opponents' fleets. ",
+        "studio": "gangbusters",
+        "genre": [
+            {
+                "key": "ARCADE",
+                "displayName": "Arcade",
+                "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/arcade2.png"
+            },
+            {
+                "key": "STRATEGY",
+                "displayName": "Strategy",
+                "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+            }
+        ],
+        "platform": [
+            {
+                "displayName": "Web",
+                "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                "key": "WEB"
+            }
+        ],
+        "network": [
+            {
+                "displayName": "Solana",
+                "imageUrl": "https://www.fractal.is/solana-sol-logo.png",
+                "key": "SOLANA"
+            }
+        ],
+        "playNowUrl": {
+            "url": "https://battletabs.io/",
+            "showInNewTab": true
+        },
+        "categories": [
+            {
+                "key": "FREE_TO_PLAY",
+                "displayName": "Free To Play",
+                "imageUrl": ""
+            },
+            {
+                "key": "MULTIPLAYER",
+                "displayName": "Multiplayer",
+                "imageUrl": ""
+            }
+        ],
+        "supportedDesktopRuntime": [],
+        "banner": {
+            "type": "png",
+            "url": "https://fractal-media.imgix.net/media_7299b6b1-8fff-484b-99c3-642c5ff24768"
+        },
+        "id": "2f9ba091-84e0-48ab-bf81-7c5211a15bd0",
+        "tier": 3
+    }
+}

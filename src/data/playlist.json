@@ -1,0 +1,29 @@
+{
+    "playlists": [
+        {
+            "id": "BEST_OF_MOBILE",
+            "displayName": "Best of Mobile",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/playlist-images/best_of_mobile.png"
+        },
+        {
+            "id": "Spike",
+            "displayName": "Bullets and mettle",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/playlist-images/BULLERS%20AND%20METTLE.png"
+        },
+        {
+            "id": "Degen Legends",
+            "displayName": "Enter the fray",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/playlist-images/ENTER%20THE%20FRAY.png"
+        },
+        {
+            "id": "Fractal Game Night Picks",
+            "displayName": "King of the castle",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/playlist-images/KING%20OF%20THE%20CASTLE.png"
+        },
+        {
+            "id": "MinhArte",
+            "displayName": "Pixel worlds",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/playlist-images/PIXEL%20WORLDS.png"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "data": {
+        "handle": "kingdomverse",
+        "title": "Defend the Kingdom",
+        "description": "This mobile tower defense is a fan favorite. Grow your monkey hero army and earn big in monthly Fractal tournaments.",
+        "studio": "kingdomverse",
+        "genre": [
+            {
+                "key": "TOWER DEFENSE",
+                "displayName": "Tower defense",
+                "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/TD2.png"
+            }
+        ],
+        "platform": [
+            {
+                "displayName": "Android",
+                "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                "key": "ANDROID"
+            },
+            {
+                "displayName": "iOS",
+                "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/ios.png",
+                "key": "IOS"
+            }
+        ],
+        "network": [
+            {
+                "displayName": "Ethereum",
+                "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                "key": "ETHEREUM"
+            },
+            {
+                "displayName": "Polygon",
+                "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                "key": "POLYGON"
+            }
+        ],
+        "playNowUrl": {
+            "url": "https://defendthekingdom.io",
+            "showInNewTab": true
+        },
+        "categories": [
+            {
+                "key": "CASUAL",
+                "displayName": "Casual",
+                "imageUrl": ""
+            },
+            {
+                "key": "FREE_TO_PLAY",
+                "displayName": "Free To Play",
+                "imageUrl": ""
+            },
+            {
+                "key": "MULTIPLAYER",
+                "displayName": "Multiplayer",
+                "imageUrl": ""
+            }
+        ],
+        "supportedDesktopRuntime": [],
+        "banner": {
+            "type": "png",
+            "url": "https://fractal-media.imgix.net/media_f9045f1e-adf3-470e-969f-c4ae5d145e18"
+        },
+        "id": "ba5d4529-fba0-4966-a256-63ea17bb85ca",
+        "tier": 3
+    }
+}

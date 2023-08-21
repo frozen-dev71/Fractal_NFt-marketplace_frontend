@@ -1,0 +1,248 @@
+{
+    "gameListItems": [
+        {
+            "project": {
+                "handle": "ev",
+                "platform": [
+                    {
+                        "displayName": "Web",
+                        "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                        "key": "WEB"
+                    }
+                ],
+                "id": "5701666712059904",
+                "title": "ev.io",
+                "playNowUrl": {
+                    "url": "https://ev.io/"
+                },
+                "supportedDesktopRuntime": [],
+                "tier": 3
+            },
+            "media": {
+                "type": "png",
+                "url": "https://fractal-media.imgix.net/media_3083d484-8ab6-4afb-9662-eb8f48cc8c02"
+            }
+        },
+        {
+            "project": {
+                "handle": "kingdomverse",
+                "platform": [
+                    {
+                        "displayName": "Android",
+                        "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                        "key": "ANDROID"
+                    },
+                    {
+                        "displayName": "iOS",
+                        "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/ios.png",
+                        "key": "IOS"
+                    }
+                ],
+                "id": "ba5d4529-fba0-4966-a256-63ea17bb85ca",
+                "title": "Defend the Kingdom",
+                "playNowUrl": {
+                    "url": "https://defendthekingdom.io"
+                },
+                "supportedDesktopRuntime": [],
+                "tier": 3
+            },
+            "media": {
+                "type": "png",
+                "url": "https://fractal-media.imgix.net/media_37acc612-33cf-4dfc-aba8-8d806e539912"
+            }
+        },
+        {
+            "project": {
+                "handle": "battletabs",
+                "platform": [
+                    {
+                        "displayName": "Web",
+                        "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                        "key": "WEB"
+                    }
+                ],
+                "id": "2f9ba091-84e0-48ab-bf81-7c5211a15bd0",
+                "title": "BattleTabs",
+                "playNowUrl": {
+                    "url": "https://battletabs.io/"
+                },
+                "supportedDesktopRuntime": [],
+                "tier": 3
+            },
+            "media": {
+                "type": "png",
+                "url": "https://fractal-media.imgix.net/media_ba04c286-6c37-491d-a15d-27ab90b91ad2"
+            }
+        },
+        {
+            "project": {
+                "handle": "planetmojo",
+                "platform": [
+                    {
+                        "displayName": "Web",
+                        "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                        "key": "WEB"
+                    }
+                ],
+                "id": "31a9b4de-5862-4b7f-ac31-436dcdeff829",
+                "title": "Mojo Melee",
+                "playNowUrl": {
+                    "url": "https://play.planetmojo.io/"
+                },
+                "supportedDesktopRuntime": [],
+                "tier": 3
+            },
+            "media": {
+                "type": "png",
+                "url": "https://fractal-media.imgix.net/media_3f7479e6-b107-46db-8a0f-3607327f7a24"
+            }
+        },
+        {
+            "project": {
+                "handle": "leagueofkingdoms",
+                "platform": [
+                    {
+                        "displayName": "Android",
+                        "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                        "key": "ANDROID"
+                    },
+                    {
+                        "displayName": "iOS",
+                        "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/ios.png",
+                        "key": "IOS"
+                    },
+                    {
+                        "displayName": "Web",
+                        "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                        "key": "WEB"
+                    }
+                ],
+                "id": "90bb5e22-18ac-41e4-8d11-1632bafe6d1b",
+                "title": "League Of Kingdoms",
+                "playNowUrl": {
+                    "url": "https://play.leagueofkingdoms.com/"
+                },
+                "supportedDesktopRuntime": [],
+                "tier": 1
+            },
+            "media": {
+                "type": "png",
+                "url": "https://fractal-media.imgix.net/media_db36ab99-41c6-4770-b308-c8f773e13e7a"
+            }
+        },
+        {
+            "project": {
+                "handle": "championsascension",
+                "platform": [
+                    {
+                        "displayName": "Windows",
+                        "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                        "key": "WINDOWS"
+                    }
+                ],
+                "id": "7c06dad8-27f2-4ba2-955d-45b0d872e6ea",
+                "title": "Champions Ascension",
+                "playNowUrl": {
+                    "url": "https://champions.io/play/stream"
+                },
+                "supportedDesktopRuntime": [],
+                "tier": 1
+            },
+            "media": {
+                "type": "png",
+                "url": "https://fractal-media.imgix.net/media_192dfcec-8f3d-454b-aff3-27d559bcf7ac"
+            }
+        },
+        {
+            "project": {
+                "handle": "cards-of-ethernity",
+                "platform": [
+                    {
+                        "displayName": "Windows",
+                        "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                        "key": "WINDOWS"
+                    }
+                ],
+                "id": "47603101-f952-4a81-a2e6-4047b570fa52",
+                "title": "Cards of Ethernity",
+                "playNowUrl": {
+                    "url": "https://coe.gg"
+                },
+                "supportedDesktopRuntime": [
+                    "WIN32"
+                ],
+                "tier": 1
+            },
+            "media": {
+                "type": "png",
+                "url": "https://storage.googleapis.com/fractal-studios/4f87d6fc-1aec-45c0-abc1-4f468cd33836/ed573f3d-b454-4b6f-aa90-a4f86967f6d9.png"
+            }
+        },
+        {
+            "project": {
+                "handle": "rooniverse",
+                "platform": [
+                    {
+                        "displayName": "Android",
+                        "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                        "key": "ANDROID"
+                    },
+                    {
+                        "displayName": "macOS",
+                        "imageUrl": "https://fractal-media.imgix.net/icons/platform_mac_osx.png",
+                        "key": "MACOS"
+                    },
+                    {
+                        "displayName": "Web",
+                        "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                        "key": "WEB"
+                    },
+                    {
+                        "displayName": "Windows",
+                        "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                        "key": "WINDOWS"
+                    }
+                ],
+                "id": "5691975521009664",
+                "title": "Rooniverse",
+                "supportedDesktopRuntime": [
+                    "WIN32",
+                    "DARWIN"
+                ],
+                "tier": 1
+            },
+            "media": {
+                "type": "png",
+                "url": "https://fractal-media.imgix.net/media_db730547-ac18-4dd0-bc2c-d4346f774d59"
+            }
+        },
+        {
+            "project": {
+                "handle": "bladerite",
+                "platform": [
+                    {
+                        "displayName": "macOS",
+                        "imageUrl": "https://fractal-media.imgix.net/icons/platform_mac_osx.png",
+                        "key": "MACOS"
+                    },
+                    {
+                        "displayName": "Windows",
+                        "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                        "key": "WINDOWS"
+                    }
+                ],
+                "id": "60d2ce4f-ee96-4a1e-add3-31b8a85fdc10",
+                "title": "Bladerite",
+                "supportedDesktopRuntime": [
+                    "DARWIN",
+                    "WIN32"
+                ],
+                "tier": 1
+            },
+            "media": {
+                "type": "png",
+                "url": "https://fractal-media.imgix.net/media_cdc55c16-f269-4e81-9e8b-9ea0998fb13f"
+            }
+        }
+    ]
+}

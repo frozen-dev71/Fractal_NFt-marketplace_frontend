@@ -1,0 +1,149 @@
+{
+    "handle": "csgo",
+    "title": "Counter Strike",
+    "description": "Experience one of the most well-known FPS classics in all its glory. ",
+    "studio": "Valve",
+    "genre": [
+        {
+            "key": "ACTION",
+            "displayName": "Action",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+        },
+        {
+            "key": "SHOOTERS",
+            "displayName": "Shooters",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/shooter3.png"
+        }
+    ],
+    "platform": [
+        {
+            "displayName": "Windows",
+            "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+            "key": "WINDOWS"
+        }
+    ],
+    "network": [],
+    "playNowUrl": {
+        "url": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/"
+    },
+    "supportedDesktopRuntime": [],
+    "statusDisplayName": "Full Release",
+    "avatar": {
+        "type": "png",
+        "url": "https://fractal-media.imgix.net/media_e7a77f66-9885-4b38-a119-cbbfee021cbc"
+    },
+    "banner": {
+        "type": "png",
+        "url": "https://fractal-media.imgix.net/media_00a60374-35a1-4194-95c9-9ead297f8064"
+    },
+    "categories": [
+        {
+            "key": "FREE_TO_PLAY",
+            "displayName": "Free To Play",
+            "imageUrl": ""
+        },
+        {
+            "key": "MULTIPLAYER",
+            "displayName": "Multiplayer",
+            "imageUrl": ""
+        }
+    ],
+    "events": [
+        {
+            "title": "Game Night: CS:GO Arms Race",
+            "description": "Brace yourselves, as we've crafted exclusive Fractal Game Night custom servers with a electrifying game mode: Arms Race! Get in the game, score big on the live leaderboard, and seize your chance to claim a share of the $300 prize pool!",
+            "media": {
+                "type": "image",
+                "url": "https://fractal-media.imgix.net/media_6c8b8b56-4beb-4bc0-9ee5-8f0fe4218956"
+            },
+            "tournament": {
+                "id": "ea849e07-8d21-4413-bec9-20c18e0ddd6b",
+                "title": "Game Night: CS:GO Arms Race",
+                "prizeInfo": "$300 USD",
+                "playerCount": 0,
+                "traitAnimation": {
+                    "type": "mp4",
+                    "url": ""
+                }
+            },
+            "eventId": "c7c5e0fe-1db4-443b-ae3a-7b348d8dbca7",
+            "startTime": "2023-08-17T22:00:00Z",
+            "endTime": "2023-08-17T23:30:00Z",
+            "project": {
+                "title": "Counter Strike",
+                "id": "6ddf43c6-d896-4902-9c9f-8f4ad55fedee",
+                "handle": "csgo",
+                "banner": {
+                    "type": "png",
+                    "url": "https://storage.googleapis.com/fractal-media/media_00a60374-35a1-4194-95c9-9ead297f8064"
+                }
+            },
+            "rules": "<div class=\"fds-tabs\" data-selected-tab=\"foo\">\n  <button data-tab=\"foo\">English</button>\n  <button data-tab=\"bar\">🇧🇷 Português</button>\n</div>\n<div class=\"fds-tab-area\" data-tab-area=\"foo\">\n<h2>Key Points</h2>\n\n<ul>\n\t<li>Event will be hosted in the<a href=\"https://discord.gg/fractalwagmi\" rel=\"noopener\" target=\"_blank\"> Fractal Discord Server</a> on the Game Night Stage</li>\n\t<li>Event will be hosted in Portuguese and English</li>\n\t<li>We&#39;ll be playing CS:GO Arms Race</li>\n</ul>\n\n<h2>CS:GO Arms Race Game Night Format</h2>\n\n<p>CS: GO will be an async game night meaning everyone who comes to play in our servers will be posting scores to a live leaderboard!<br />\n<br />\nPlayers spawn with the weapon on his or her current level as well as the knife. For every two kills on a particular level, the player will receive a new weapon by leveling up to the next level. The gold knife is the final weapon a player receives, and the first player to score a kill with the gold knife wins the game along with his or her team.<br />\n<br />\nWhen game night starts, join one of the Fractal Community servers and start playing. If the server is full try another one until you get in. You&#39;ll be putting up points onto the leaderboard as you play and the top scores at the end of the night will receive part of a $200 prize pool!<br />\n<br />\n<strong>For the secret mission, only the 5 first players who cracks the case will get a part of the bonus $100 prize pool, so be fast and be smart!</strong></p>\n\n<h2>Prizes</h2>\n\n<table border=\"1\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">Leaderboard Rank</th>\n\t\t\t<th scope=\"col\">Prize</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>1st Place</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>$20 USD</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2nd Place</td>\n\t\t\t<td>\n\t\t\t<p>$15 USD</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>3rd Place</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>$10 USD</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>4th Place</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>$8 USD</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>5th Place</p>\n\t\t\t</td>\n\t\t\t<td>$6 USD</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>6-10</p>\n\t\t\t</td>\n\t\t\t<td>$4 USD</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>11- 30</td>\n\t\t\t<td>$2.50 USD</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>31-50</td>\n\t\t\t<td>$2 USD</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>51-80</td>\n\t\t\t<td>$1 USD</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<h2>How to prepare for Game Night</h2>\n\n<ul>\n\t<li>Create a Fractal account if you don&#39;t have one (Prizes will only be sent to Fractal wallets)</li>\n\t<li>Link your Discord and Steam accounts to your Fractal account in your <a href=\"https://www.fractal.is/account/profile\">Account Profile</a>&nbsp;(Scores will only be sent if your accounts are linked)</li>\n\t<li>Download CS:GO from Steam before game night:&nbsp;<a href=\"https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/\">https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/</a></li>\n</ul>\n\n<h2>How to Join Game Night</h2>\n\n<p>To join game night, click on the game night stage ⁠in the Fractal Discord server at the right time. This is a live event so <strong>DON&#39;T BE LATE!</strong></p>\n</div>\n<div class=\"fds-tab-area\" data-tab-area=\"bar\">\n<h2>Pontos Chave</h2>\n\n<ul>\n\t<li>O evento ser&aacute; realizado no servidor do <a href=\"http://discord.gg/fractalwagmi\">Discord da Fractal</a>, no Stage da Game Night</li>\n\t<li>O evento ser&aacute; realizado em Portugu&ecirc;s e Ingl&ecirc;s</li>\n\t<li>Iremos jogar o modo corrida armada do CS: GO</li>\n</ul>\n\n<h2>Formato da Game Night de Corrida Armada no CS: GO</h2>\n\n<p>A Game Night de CS:GO ser&aacute; uma game night n&atilde;o simult&acirc;nea, o que significa que todos que vierem jogar em nossos servidores ter&atilde;o suas pontua&ccedil;&otilde;es enviadas para um placar ao vivo!<br />\n<br />\nJogadores spawnam com a arma do seu n&iacute;vel atual e com uma faca. A cada dois abates em um n&iacute;vel espec&iacute;fico, o jogador receber&aacute; uma nova arma ao subir para o pr&oacute;ximo n&iacute;vel. A faca dourada &eacute; a arma final que um jogador pode receber, e o primeiro jogador a conseguir um abate com a faca dourada vence o jogo junto com sua equipe.<br />\n<br />\nQuando a Game Night come&ccedil;ar, entre em um dos servidores da comunidade da Fractal e comece a jogar. Se o servidor estiver cheio, tente outro at&eacute; voc&ecirc; conseguir entrar. Voc&ecirc; ir&aacute; acumular pontos no placar a medida que joga, e as melhores pontua&ccedil;&otilde;es ao final da Game Night receber&atilde;o parte do pr&ecirc;mio total de $200 d&oacute;lares!<br />\n<br />\n<strong>Para a miss&atilde;o secreta, apenas os 5 primeiros que desvendarem o caso v&atilde;o ganhar parte da premia&ccedil;&atilde;o b&ocirc;nus, ent&atilde;o seja esperto e seja r&aacute;pido.</strong></p>\n\n<h2>Premia&ccedil;&atilde;o</h2>\n\n<table border=\"1\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">&nbsp;Rank</th>\n\t\t\t<th scope=\"col\">Pr&ecirc;mio</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>1st Place</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>$20 USD</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2nd Place</td>\n\t\t\t<td>\n\t\t\t<p>$15 USD</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>3rd Place</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>$10 USD</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>4th Place</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>$8 USD</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>5th Place</p>\n\t\t\t</td>\n\t\t\t<td>$6 USD</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>6-10</p>\n\t\t\t</td>\n\t\t\t<td>$4 USD</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>11- 30</td>\n\t\t\t<td>$2.50 USD</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>31-50</td>\n\t\t\t<td>$2 USD</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>51-80</td>\n\t\t\t<td>$1 USD</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<h2>Como se preparar para Game Night:</h2>\n\n<ul>\n\t<li>Crie uma conta na Fractal, caso ainda n&atilde;o tenha uma (As premia&ccedil;&otilde;es ser&atilde;o enviadas apenas para carteiras da Fractal)</li>\n\t<li>Linke sua conta do Discord com a sua conta da Fractal na aba &quot;Account Profile&quot; (A pontua&ccedil;&atilde;o s&oacute; seria enviada para tabela se sua conta estiver corretamente linkada)</li>\n\t<li>Baixe o CS:GO pela Steam antes da game night come&ccedil;ar: <a href=\"https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/\" rel=\"noreferrer noopener\" tabindex=\"0\" target=\"_blank\" title=\"https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/\">https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/</a></li>\n</ul>\n\n<h2>Como participar da Game Night</h2>\n\n<p>Para participar da Game Night, clique no stage da Game Night ⁠no Discord da Fractal na hora definida. Ajustem seus alarmes e estejam l&aacute;! Esse &eacute; um evento ao vivo, ent&atilde;o <strong>N&Atilde;O SE ATRASE! </strong></p>\n</div>",
+            "youtubeVideos": []
+        },
+        {
+            "title": "CS:GO Streamer Showdown",
+            "description": "Play alongside your favorite streamers in a giant multi-server C4 mode match in CS:GO!",
+            "media": {
+                "type": "",
+                "url": "https://fractal-media.imgix.net/media_fd7a29c4-4a51-457e-b94e-ae248d039f52"
+            },
+            "tournament": {
+                "id": "c5da9222-de56-41e0-b250-729717d0a0b4",
+                "title": "Game Night Streamer Showdown",
+                "prizeInfo": "$400 USD",
+                "playerCount": 185,
+                "traitAnimation": {
+                    "type": "mp4",
+                    "url": "https://storage.googleapis.com/fractal-media/media_1099a3eb-d2b1-4e72-b006-e9eb2bb48fb2"
+                }
+            },
+            "eventId": "a3ff4a18-42a3-4ee8-b06a-aef4b089a008",
+            "startTime": "2023-07-27T22:00:00Z",
+            "endTime": "2023-07-27T23:40:00Z",
+            "project": {
+                "title": "Counter Strike",
+                "id": "6ddf43c6-d896-4902-9c9f-8f4ad55fedee",
+                "handle": "csgo",
+                "banner": {
+                    "type": "png",
+                    "url": "https://storage.googleapis.com/fractal-media/media_00a60374-35a1-4194-95c9-9ead297f8064"
+                }
+            },
+            "rules": "<p>GET READY FOR THE BIGGEST GAME NIGHT EVENT EVER: &nbsp;<strong>The Streamer Showdown!</strong>&nbsp;<br />\n<br />\nSide with one of Brazil&#39;s top web3 gaming streamers and invite your friends to compete against the other team and make Fractal Game Night history!<br />\n<br />\nAre you <strong>#teamlombra</strong>, the Brazilian otter, enemy of making profits<br />\nOr <strong>#teamminharte</strong>, chicken impersonator, and prettiest mustache alive?<br />\n<br />\nTell the world who you&#39;re playing for on twitter!<br />\n<br />\n💰&nbsp;<strong>Prizes:</strong> $200 for leaderboard scores<br />\n💰&nbsp;<strong>Prizes:</strong> $100 split to the winning team<br />\n💰&nbsp;<strong>Bonus:</strong> $100 for secret missions<br />\n<br />\n🎮&nbsp;<strong>Streamer Showdown Format:</strong> 🎮&nbsp;On Tuesday July 25, 2023, pick a team to represent by typing <code>!team in the <a href=\"https://discord.gg/fractalwagmi\">Fractal Discord Server</a></code>, then on July 27, 2023, you&#39;ll be assigned to a 10v10 c4 standard mode server, where you&#39;ll represent the streamer that you chose! You&#39;ll be putting up points on the leaderboard as you get kills, assists, plant, and defuse bombs. The top scores at the end of the night will receive part of a $200 prize pool, and the winning team will wager an additional $100! There will also be 5 secret missions that any player can unlock throughout the night worth $20 each! We will give clues but it will be up to you to figure them out and win!<br />\n<br />\n<strong>Cheating will not be tolerated, we are going to record every player&#39;s perspective, if you get caught cheating you&#39;ll be perma-banned and your whole team will be disqualified.</strong><br />\n<br />\n<strong>How to prepare for Game Night:</strong></p>\n\n<ul>\n\t<li>Link your discord and steam accounts to your Fractal here:&nbsp;<a href=\"https://www.fractal.is/account?t=Profile\">https://www.fractal.is/account?t=Profile</a></li>\n\t<li>Download CS:GO from Steam: <a href=\"https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/\" rel=\"noreferrer noopener\" tabindex=\"0\" target=\"_blank\" title=\"https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/\">https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/</a></li>\n\t<li>Register your team pick by typing <code>!team</code> on July 25, 2023 in the Fractal discord server</li>\n\t<li>Add Fractal&#39;s community servers to your favorites in CS:GO (list of servers will be available at the beginning of our Game Night)</li>\n</ul>\n\n<p>When the event begins, load up CS:GO and click on the game night stage in the Fractal Discord server at the right time to join the fun!</p>\n",
+            "youtubeVideos": []
+        },
+        {
+            "title": "CS:GO Game Night",
+            "description": "Come join the one and only Fractal Game Night and win F points and cash prize rewards! Play in custom servers with the Fractal community and put up points on the leaderboard. Solve secret quests for a total bonus of $100. Jump in and see you soon!",
+            "media": {
+                "type": "image",
+                "url": "https://fractal-media.imgix.net/media_6c8b8b56-4beb-4bc0-9ee5-8f0fe4218956"
+            },
+            "tournament": {
+                "id": "58f6af7a-42dd-46c2-8c42-2db1aad460e4",
+                "title": "CS:GO Game Night",
+                "prizeInfo": "F Points, $300 USD",
+                "playerCount": 1,
+                "traitAnimation": {
+                    "type": "mp4",
+                    "url": "https://storage.googleapis.com/fractal-media/media_9bcecf08-b065-4cda-92ef-44f76325a613"
+                }
+            },
+            "eventId": "a4f86907-7e8d-446f-9fc4-c469766fa396",
+            "startTime": "2023-07-06T22:05:00Z",
+            "endTime": "2023-07-06T23:05:00Z",
+            "project": {
+                "title": "Counter Strike",
+                "id": "6ddf43c6-d896-4902-9c9f-8f4ad55fedee",
+                "handle": "csgo",
+                "banner": {
+                    "type": "png",
+                    "url": "https://storage.googleapis.com/fractal-media/media_00a60374-35a1-4194-95c9-9ead297f8064"
+                }
+            },
+            "rules": "<p>CS: GO once again!?&nbsp;We've spun up some custom servers with different game modes in CS: GO just for Fractal Game Night! </p><p><a rel=\"noopener noreferrer\" href=\"https://discord.gg/fractalwagmi\" target=\"_blank\">Join Fractal Discord</a> and put up points on the leaderboard during the live event to take home part of the $200 prize pool! We will also have secret quest (what are those emojis at the end of the announcement?) for a total bonus of $100, be ready to try new things on our servers!&nbsp;</p><p><strong>Prizes:</strong> $200 in prizepool and giveaways&nbsp;</p><p><strong>Bonus:</strong> $100 for secret missions </p><h2><strong>How to prepare for Game Night</strong></h2><p>Link your discord account to your Fractal wallet by typing !link in ⁠🍻│game-night (if you receive a green check mark you set up correctly). </p><ul><li>Link your steam account to your Fractal account by typing !steam in any channel and following the instructions.</li><li>Download CS:GO from Steam <a rel=\"noopener noreferrer\" href=\"https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/\" target=\"_blank\">here</a></li><li>Add Fractal's community servers to your favorites (list of servers will be available at the beginning of our Game Night) </li></ul><h2><strong>Game Night Format</strong></h2><p>CS: GO will be an async game night meaning everyone who comes to play in our servers will be posting scores to a live leaderboard! </p><p>When game night starts, join one of the Fractal Community servers and start playing. If the server is full try another one until you get in. You'll be putting up points onto the leaderboard as you play and the top scores at the end of the night will receive part of a <strong>$200</strong> prize pool! For the secret mission, only the 5 first players who cracks the case will get a part of the bonus prize, so be fast and be smart.&nbsp;</p><h2><strong>Join Game Night Right Now</strong></h2><p>To join game night, <a rel=\"noopener noreferrer\" href=\"https://discord.gg/fractalwagmi\" target=\"_blank\">join Fractal Discord</a> and click on the game night stage at the right time. This is a live event so <strong>DON'T BE LATE!</strong>&nbsp;</p><p><br></p>",
+            "youtubeVideos": []
+        }
+    ]
+}

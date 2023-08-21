@@ -1,0 +1,2873 @@
+{
+    "games": [
+        {
+            "id": "007b78b7-b8cf-4a46-9301-d567bbd0ef73",
+            "handle": "alphaleagueracing",
+            "name": "Alpha League Racing",
+            "imageUrl": "https://fractal-media.imgix.net/media_137eb870-0150-4b21-9039-ff23f0efb8ad",
+            "platform": [
+                {
+                    "displayName": "Android",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                    "key": "ANDROID"
+                },
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                }
+            ],
+            "description": "Fully action-packed racing game in the browser",
+            "studio": "Alpha League Racing",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Solana",
+                    "imageUrl": "https://www.fractal.is/solana-sol-logo.png",
+                    "key": "SOLANA"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "a31cc049-71d8-42c5-a505-88b16db5167f",
+            "handle": "angrymals",
+            "name": "Angrymals",
+            "imageUrl": "https://fractal-media.imgix.net/media_9f25b05c-1b33-4521-ab97-abbecd087232",
+            "platform": [
+                {
+                    "displayName": "Android",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                    "key": "ANDROID"
+                },
+                {
+                    "displayName": "iOS",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/ios.png",
+                    "key": "IOS"
+                }
+            ],
+            "description": "Inspired by Worms and Angry Birds, challenge your friends with a barrage of carrots, exhausts, and sperm whales!",
+            "studio": "Angrymals",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Solana",
+                    "imageUrl": "https://www.fractal.is/solana-sol-logo.png",
+                    "key": "SOLANA"
+                }
+            ],
+            "statusDisplayName": "Full Release",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "e8ec5070-151e-4ab4-8f1a-889a597978bf",
+            "handle": "apeiron",
+            "name": "Apeiron",
+            "imageUrl": "https://fractal-media.imgix.net/media_a3e5f719-c5b4-41e7-9748-2d187cf354d4",
+            "platform": [
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "2f9ba091-84e0-48ab-bf81-7c5211a15bd0",
+            "handle": "battletabs",
+            "name": "BattleTabs",
+            "imageUrl": "https://fractal-media.imgix.net/media_ba04c286-6c37-491d-a15d-27ab90b91ad2",
+            "platform": [
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                }
+            ],
+            "description": "Battle your friends in this byte-sized game of strategy, wits, and luck. Be the first to sink all your opponents' fleets.",
+            "studio": "Gangbusters",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Solana",
+                    "imageUrl": "https://www.fractal.is/solana-sol-logo.png",
+                    "key": "SOLANA"
+                }
+            ],
+            "statusDisplayName": "Full Release",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5645599001018368",
+            "handle": "bitbrawl",
+            "name": "BitBrawl",
+            "imageUrl": "https://fractal-media.imgix.net/media_3529147f-be49-4ecd-8354-15e0ce61e94e",
+            "platform": [
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                }
+            ],
+            "description": "Brawl online with real players for fun. Win matches to earn shards, spend them to buy cosmetic items for your brawler.",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Solana",
+                    "imageUrl": "https://www.fractal.is/solana-sol-logo.png",
+                    "key": "SOLANA"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "60d2ce4f-ee96-4a1e-add3-31b8a85fdc10",
+            "handle": "bladerite",
+            "name": "Bladerite",
+            "imageUrl": "https://fractal-media.imgix.net/media_cdc55c16-f269-4e81-9e8b-9ea0998fb13f",
+            "platform": [
+                {
+                    "displayName": "macOS",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_mac_osx.png",
+                    "key": "MACOS"
+                },
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Pick your weapon and survive in this wasteland arena. Will you be the last person standing in this melee-based battle royale?",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Solana",
+                    "imageUrl": "https://www.fractal.is/solana-sol-logo.png",
+                    "key": "SOLANA"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                },
+                {
+                    "key": "MULTIPLAYER",
+                    "displayName": "Multiplayer",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ]
+        },
+        {
+            "id": "c34a39a3-17b5-4b7f-bd10-1606bd5d68fe",
+            "handle": "blast-royale",
+            "name": "Blast Royale",
+            "imageUrl": "https://fractal-media.imgix.net/media_41d94a2f-891f-43ff-8d2a-9363b1da131d",
+            "platform": [
+                {
+                    "displayName": "Android",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                    "key": "ANDROID"
+                },
+                {
+                    "displayName": "iOS",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/ios.png",
+                    "key": "IOS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5630347035279360",
+            "handle": "br1",
+            "name": "BR1",
+            "imageUrl": "https://fractal-media.imgix.net/media_2ee1838a-6b42-4456-83bf-4eda36a13d79",
+            "platform": [],
+            "description": "Pick your weapon and survive in this wasteland arena. Will you be the last person standing in this melee-based battle royale?",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Solana",
+                    "imageUrl": "https://www.fractal.is/solana-sol-logo.png",
+                    "key": "SOLANA"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                },
+                {
+                    "key": "MULTIPLAYER",
+                    "displayName": "Multiplayer",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ]
+        },
+        {
+            "id": "341d91f7-02c1-4afd-b48b-70d1cd05cb79",
+            "handle": "britaria",
+            "name": "Britaria",
+            "imageUrl": "https://fractal-media.imgix.net/media_6b26a938-b7de-4995-ba5d-4b704d1c0e57",
+            "platform": [
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "47603101-f952-4a81-a2e6-4047b570fa52",
+            "handle": "cards-of-ethernity",
+            "name": "Cards of Ethernity",
+            "imageUrl": "https://storage.googleapis.com/fractal-studios/4f87d6fc-1aec-45c0-abc1-4f468cd33836/ed573f3d-b454-4b6f-aa90-a4f86967f6d9.png",
+            "platform": [
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Pick your weapon and survive in this wasteland arena. Will you be the last person standing in this melee-based battle royale?",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Solana",
+                    "imageUrl": "https://www.fractal.is/solana-sol-logo.png",
+                    "key": "SOLANA"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                },
+                {
+                    "key": "MULTIPLAYER",
+                    "displayName": "Multiplayer",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ]
+        },
+        {
+            "id": "5673082664517632",
+            "handle": "caveworld",
+            "name": "Caveworld",
+            "imageUrl": "https://fractal-media.imgix.net/media_41704ea5-a9db-4bc3-a372-4766ee1773cb",
+            "platform": [
+                {
+                    "displayName": "Android",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                    "key": "ANDROID"
+                },
+                {
+                    "displayName": "iOS",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/ios.png",
+                    "key": "IOS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "7c06dad8-27f2-4ba2-955d-45b0d872e6ea",
+            "handle": "championsascension",
+            "name": "Champions Ascension",
+            "imageUrl": "https://fractal-media.imgix.net/media_192dfcec-8f3d-454b-aff3-27d559bcf7ac",
+            "platform": [
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Pick your weapon and survive in this wasteland arena. Will you be the last person standing in this melee-based battle royale?",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Solana",
+                    "imageUrl": "https://www.fractal.is/solana-sol-logo.png",
+                    "key": "SOLANA"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                },
+                {
+                    "key": "MULTIPLAYER",
+                    "displayName": "Multiplayer",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ]
+        },
+        {
+            "id": "6ddf43c6-d896-4902-9c9f-8f4ad55fedee",
+            "handle": "csgo",
+            "name": "Counter Strike",
+            "imageUrl": "https://fractal-media.imgix.net/media_e7a77f66-9885-4b38-a119-cbbfee021cbc",
+            "platform": [
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "89df829b-8c2a-42cb-87df-8c4ccd5e743f",
+            "handle": "crab-game",
+            "name": "Crab Game",
+            "imageUrl": "https://fractal-media.imgix.net/media_dec3f4e8-2291-484f-a148-4c82164f75ff",
+            "platform": [],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "822f8cd8-157b-494e-8fed-47c6f77d4006",
+            "handle": "cricinshots",
+            "name": "Cricinshots",
+            "imageUrl": "https://storage.googleapis.com/fractal-studios/04c9f555-ee22-406d-8b74-34e350fd5f11/a92e4299-5cbe-44aa-9094-c07d36916723.png",
+            "platform": [
+                {
+                    "displayName": "Android",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                    "key": "ANDROID"
+                },
+                {
+                    "displayName": "iOS",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/ios.png",
+                    "key": "IOS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "0587fbf3-54f9-4452-8a14-5a02d62c75ad",
+            "handle": "darkcountry",
+            "name": "Dark Country",
+            "imageUrl": "https://storage.googleapis.com/fractal-studios/58780356-22db-48c7-bcf0-d530ccb0dc3c/0d3ef159-010f-4773-91ca-f10deb4a7de5.png",
+            "platform": [
+                {
+                    "displayName": "macOS",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_mac_osx.png",
+                    "key": "MACOS"
+                },
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "2c788c3e-8b6d-4238-a753-7079c8bed5d4",
+            "handle": "darkthrone",
+            "name": "Dark Throne",
+            "imageUrl": "https://fractal-media.imgix.net/media_5e35627c-3312-4d43-8363-204347b8398d",
+            "platform": [
+                {
+                    "displayName": "Android",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                    "key": "ANDROID"
+                },
+                {
+                    "displayName": "iOS",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/ios.png",
+                    "key": "IOS"
+                },
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "34a9fdf2-3563-4267-bf7c-1e70e4f49069",
+            "handle": "decentralgames",
+            "name": "Decentral Games ICE Poker ",
+            "imageUrl": "https://fractal-media.imgix.net/media_ea7718ee-f57e-4b99-a19f-c043e8261d44",
+            "platform": [
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ba5d4529-fba0-4966-a256-63ea17bb85ca",
+            "handle": "kingdomverse",
+            "name": "Defend the Kingdom",
+            "imageUrl": "https://fractal-media.imgix.net/media_37acc612-33cf-4dfc-aba8-8d806e539912",
+            "platform": [
+                {
+                    "displayName": "Android",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                    "key": "ANDROID"
+                },
+                {
+                    "displayName": "iOS",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/ios.png",
+                    "key": "IOS"
+                }
+            ],
+            "description": "Pick your weapon and survive in this wasteland arena. Will you be the last person standing in this melee-based battle royale?",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Solana",
+                    "imageUrl": "https://www.fractal.is/solana-sol-logo.png",
+                    "key": "SOLANA"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                },
+                {
+                    "key": "MULTIPLAYER",
+                    "displayName": "Multiplayer",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ]
+        },
+        {
+            "id": "ce100280-6c98-43b8-afca-4379dd94c8f4",
+            "handle": "degen-royale",
+            "name": "Degen Royale",
+            "imageUrl": "https://fractal-media.imgix.net/media_6c42f6a8-5fc3-42c5-a427-bf31aba3e365",
+            "platform": [
+                {
+                    "displayName": "macOS",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_mac_osx.png",
+                    "key": "MACOS"
+                },
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "8d1cc9ac-1ba2-4918-9a59-4ce7bc1bc958",
+            "handle": "derbystars",
+            "name": "Derby Stars",
+            "imageUrl": "https://fractal-media.imgix.net/media_ab03c413-70fd-46f2-8d81-b31f3d791ffd",
+            "platform": [],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "ee2ad019-3528-4343-a1e6-96cfd5b6482c",
+            "handle": "doublejump",
+            "name": "Double Jump",
+            "imageUrl": "https://fractal-media.imgix.net/media_2379d910-bd8a-457a-a535-edd72ee86c47",
+            "platform": [
+                {
+                    "displayName": "Android",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                    "key": "ANDROID"
+                },
+                {
+                    "displayName": "iOS",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/ios.png",
+                    "key": "IOS"
+                },
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                }
+            ],
+            "description": "Pick your weapon and survive in this wasteland arena. Will you be the last person standing in this melee-based battle royale?",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Solana",
+                    "imageUrl": "https://www.fractal.is/solana-sol-logo.png",
+                    "key": "SOLANA"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                },
+                {
+                    "key": "MULTIPLAYER",
+                    "displayName": "Multiplayer",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ]
+        },
+        {
+            "id": "7340ac51-a667-464d-8e52-a459cef6457f",
+            "handle": "efas",
+            "name": "EFAS",
+            "imageUrl": "https://fractal-media.imgix.net/media_6e9b961d-c237-48c6-af8e-054d70a6b8a6",
+            "platform": [
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "46f38125-26d1-415c-a686-4fdb93a3164b",
+            "handle": "elemental-raiders",
+            "name": "Elemental Raiders",
+            "imageUrl": "https://fractal-media.imgix.net/media_86f29323-f914-48c3-989b-d61a07b1b386",
+            "platform": [
+                {
+                    "displayName": "macOS",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_mac_osx.png",
+                    "key": "MACOS"
+                },
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Pick your weapon and survive in this wasteland arena. Will you be the last person standing in this melee-based battle royale?",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Solana",
+                    "imageUrl": "https://www.fractal.is/solana-sol-logo.png",
+                    "key": "SOLANA"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                },
+                {
+                    "key": "MULTIPLAYER",
+                    "displayName": "Multiplayer",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ]
+        },
+        {
+            "id": "5701666712059904",
+            "handle": "ev",
+            "name": "ev.io",
+            "imageUrl": "https://fractal-media.imgix.net/media_3083d484-8ab6-4afb-9662-eb8f48cc8c02",
+            "platform": [
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "6a7d9f05-3652-4320-81b6-6633a1fdbcdd",
+            "handle": "fall-guys",
+            "name": "Fall Guys",
+            "imageUrl": "https://fractal-media.imgix.net/media_c56c8755-f43d-4dfd-af2e-2bc906658753",
+            "platform": [],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "BRAVO READY",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "fc2689e8-7f3d-435e-86e7-ae40c5a6db17",
+            "handle": "fractal",
+            "name": "Fractal",
+            "imageUrl": "https://fractal-media.imgix.net/media_82a9e052-b5ca-44db-a93f-83b382d274d5",
+            "platform": [],
+            "description": "Pick your weapon and survive in this wasteland arena. Will you be the last person standing in this melee-based battle royale?",
+            "studio": "BRAVO READY",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "c0dd2098-8302-4025-9daf-b518c07a1bee",
+            "handle": "galaxyfightclub",
+            "name": "Galaxy Fight Club",
+            "imageUrl": "https://fractal-media.imgix.net/media_037e6a09-0a36-4141-8609-a03903ad53fe",
+            "platform": [
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5660308458700800",
+            "handle": "genopets",
+            "name": "Genopets",
+            "imageUrl": "https://fractal-media.imgix.net/media_798d4135-13d0-43ea-b09e-49e4d29349e4",
+            "platform": [
+                {
+                    "displayName": "Android",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                    "key": "ANDROID"
+                },
+                {
+                    "displayName": "iOS",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/ios.png",
+                    "key": "IOS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "6029238532571136",
+            "handle": "guildsaga",
+            "name": "Guild Saga",
+            "imageUrl": "https://fractal-media.imgix.net/media_ff62359d-ab6e-4ba9-8403-c0d078cd4957",
+            "platform": [
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "BRAVO READY",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "7a243bc0-3e95-4757-b2a7-20f7742b050b",
+            "handle": "infinitedrive",
+            "name": "Infinite Drive",
+            "imageUrl": "https://fractal-media.imgix.net/media_499e6445-b48b-490d-8680-9dd4fd0f54ab",
+            "platform": [
+                {
+                    "displayName": "Android",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                    "key": "ANDROID"
+                },
+                {
+                    "displayName": "iOS",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/ios.png",
+                    "key": "IOS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "d8306812-ccb2-49fb-a656-86f3f2d06fe3",
+            "handle": "keeptalking",
+            "name": "Keep Talking and Nobody Explodes",
+            "imageUrl": "https://fractal-media.imgix.net/media_f16840fd-df30-4915-9d48-509453bcea02",
+            "platform": [],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "1928b288-dd81-4c8a-9532-cde6bfed3d6e",
+            "handle": "kryxivia",
+            "name": "Kryxivia",
+            "imageUrl": "https://storage.googleapis.com/fractal-studios/25b1328c-c9a0-4047-8c90-b22ab269da43/2c5683ee-47cf-4d27-833b-bb2b6063b5db",
+            "platform": [
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                },
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "fcb81179-c5cf-4ae6-925a-b066040003ea",
+            "handle": "last-remains",
+            "name": "Last Remains",
+            "imageUrl": "https://fractal-media.imgix.net/media_d96c0445-2ab5-4405-9f8e-b33744e4a109",
+            "platform": [
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "7014d017-3365-45e3-ad32-4edd708deaa4",
+            "handle": "last-resort",
+            "name": "Last Resort",
+            "imageUrl": "https://storage.googleapis.com/fractal-studios/11579187-b5c2-4455-af1c-dbc9dc824576/ce578750-f5fc-4b49-99a4-d706b8c64102.png",
+            "platform": [
+                {
+                    "displayName": "Android",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                    "key": "ANDROID"
+                },
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "90bb5e22-18ac-41e4-8d11-1632bafe6d1b",
+            "handle": "leagueofkingdoms",
+            "name": "League Of Kingdoms",
+            "imageUrl": "https://fractal-media.imgix.net/media_db36ab99-41c6-4770-b308-c8f773e13e7a",
+            "platform": [
+                {
+                    "displayName": "Android",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                    "key": "ANDROID"
+                },
+                {
+                    "displayName": "iOS",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/ios.png",
+                    "key": "IOS"
+                },
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "044fc863-2598-4091-9140-2bc556138e01",
+            "handle": "life-beyond",
+            "name": "Life Beyond",
+            "imageUrl": "https://fractal-media.imgix.net/media_c89a10d1-0420-46b5-aa9c-1b8dd80915de",
+            "platform": [
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "88be160a-72d3-46bd-affc-e1195aee3096",
+            "handle": "matchday",
+            "name": "Matchday",
+            "imageUrl": "https://fractal-media.imgix.net/media_3ec5288a-6ae0-446a-a3c9-a8afefcffd42",
+            "platform": [
+                {
+                    "displayName": "Android",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                    "key": "ANDROID"
+                },
+                {
+                    "displayName": "iOS",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/ios.png",
+                    "key": "IOS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "3654c539-8038-464e-85e7-c3a682df5d4f",
+            "handle": "megaweapon",
+            "name": "MEGAWEAPON",
+            "imageUrl": "https://storage.googleapis.com/fractal-studios/a03164f5-350a-4622-a259-bc0b5e52f37f/309c56ce-6f48-4880-86aa-6b95791017de.png",
+            "platform": [
+                {
+                    "displayName": "macOS",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_mac_osx.png",
+                    "key": "MACOS"
+                },
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "BRAVO READY",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "fdd658f0-c029-4dd6-978f-947702b0ac52",
+            "handle": "metalordz",
+            "name": "Meta Lordz",
+            "imageUrl": "https://storage.googleapis.com/fractal-studios/7cf4aac6-f936-466b-9531-dc92b5bca9f9/514056b4-3854-4321-a294-d1e299c5fb63.png",
+            "platform": [
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5655326833508352",
+            "handle": "metaops",
+            "name": "MetaOps",
+            "imageUrl": "https://fractal-media.imgix.net/media_520d042a-dcd3-4bbb-aafd-1094f7d1a5c9",
+            "platform": [
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "81ea29f0-b9a4-4273-b0be-323597d66eec",
+            "handle": "metro-origins",
+            "name": "Metropolis Origins",
+            "imageUrl": "https://fractal-media.imgix.net/media_896edfd5-2fd8-4be0-9b2e-7f4e63633500",
+            "platform": [
+                {
+                    "displayName": "macOS",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_mac_osx.png",
+                    "key": "MACOS"
+                },
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "0e8238f2-dfef-4ce6-9177-25538796e423",
+            "handle": "mighty-action-heroes",
+            "name": "Mighty Action Heroes",
+            "imageUrl": "https://fractal-media.imgix.net/media_c1cb3852-a626-4111-96f8-8c822b35e306",
+            "platform": [
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "0828b451-da9a-4e90-9e3b-996e4a07aff3",
+            "handle": "milliononmars",
+            "name": "Million on Mars",
+            "imageUrl": "https://fractal-media.imgix.net/media_324b9cd4-4465-4836-915e-ca3f08aa115a",
+            "platform": [
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5735810494103552",
+            "handle": "miniroyale",
+            "name": "Mini Royale",
+            "imageUrl": "https://fractal-media.imgix.net/media_6c2ea51d-288a-4d67-948f-1b327e4a0105",
+            "platform": [
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "240ad6a6-987c-4862-9884-e7e9f29963ba",
+            "handle": "mixmob",
+            "name": "MixMob",
+            "imageUrl": "https://storage.googleapis.com/fractal-studios/2ac1b2b1-bb1b-4f6f-88e6-edd489d48a53/1a9ff8bd-8222-426c-9485-eb37649eef1e.png",
+            "platform": [
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "31a9b4de-5862-4b7f-ac31-436dcdeff829",
+            "handle": "planetmojo",
+            "name": "Mojo Melee",
+            "imageUrl": "https://fractal-media.imgix.net/media_3f7479e6-b107-46db-8a0f-3607327f7a24",
+            "platform": [
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "d35b99c1-bffc-4da5-8a00-c2b652854d35",
+            "handle": "mokens",
+            "name": "Mokens League",
+            "imageUrl": "https://fractal-media.imgix.net/media_a07e1bce-7b2b-4d62-b835-363ef90bc572",
+            "platform": [
+                {
+                    "displayName": "Android",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                    "key": "ANDROID"
+                },
+                {
+                    "displayName": "iOS",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/ios.png",
+                    "key": "IOS"
+                },
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "4ab96b75-7955-4b59-86ee-8bed6fdc5e77",
+            "handle": "ninechronicles",
+            "name": "Nine Chronicles",
+            "imageUrl": "https://storage.googleapis.com/fractal-studios/0bfd0386-56ef-4fe7-951b-280eabe0eab4/e7197391-66de-4223-b11e-238842458417.png",
+            "platform": [
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "fa3a58a6-fe34-47f7-8c40-be8c4b72681b",
+            "handle": "nitroleague",
+            "name": "Nitro League",
+            "imageUrl": "https://storage.googleapis.com/fractal-studios/c80a4bfe-cbdb-4215-bc12-ea084fb5388b/dc8a4e1e-9671-4b69-a20f-a9ce561c8145.png",
+            "platform": [
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                },
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "5726966351134720",
+            "handle": "nyanheroes",
+            "name": "Nyan Heroes",
+            "imageUrl": "https://fractal-media.imgix.net/media_c2b1da75-f59d-4fbd-b03b-f8c4831f94a6",
+            "platform": [],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "b575b924-9f84-4841-94f8-82b3eaa19362",
+            "handle": "oil-war",
+            "name": "Oil War",
+            "imageUrl": "https://storage.googleapis.com/fractal-studios/e1ee0305-13a2-4206-82ca-9384f0deebdb/d62c20d7-d28a-4485-8c59-9a7940e97fa2.png",
+            "platform": [
+                {
+                    "displayName": "Android",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                    "key": "ANDROID"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "3217b272-19fd-4d18-a693-5e6d9c1f4c44",
+            "handle": "oxya-origin-road-to-genesis",
+            "name": "Oxya Origin: Road to Genesis",
+            "imageUrl": "https://storage.googleapis.com/fractal-studios/be3741f9-2a41-401c-8b56-45266b8dfb70/c3067c8d-817f-4251-9a1e-29b3a668b0b1.jpg",
+            "platform": [
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "4814221644660736",
+            "handle": "panzerdogs",
+            "name": "Panzerdogs",
+            "imageUrl": "https://fractal-media.imgix.net/media_f771058e-6ca7-48fb-b90e-02ee535b165f",
+            "platform": [
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "f2359b1a-ded7-4b3b-99ad-5ad604a5ceaa",
+            "handle": "phantom-galaxies",
+            "name": "Phantom Galaxies",
+            "imageUrl": "https://fractal-media.imgix.net/media_7bd7272c-14c6-408e-90cb-a132070769c5",
+            "platform": [
+                {
+                    "displayName": "macOS",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_mac_osx.png",
+                    "key": "MACOS"
+                },
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "78ba7804-70cb-4659-9f8a-1e4af2717988",
+            "handle": "pixel-guild",
+            "name": "Pixel Guild",
+            "imageUrl": "https://fractal-media.imgix.net/media_7551e5fa-067d-4050-8b90-10f9f3236225",
+            "platform": [
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "1baf56ec-593c-48cf-84d7-677008bf64f3",
+            "handle": "pocketspace",
+            "name": "Pocket Space",
+            "imageUrl": "https://fractal-media.imgix.net/media_49407124-c68c-4047-a2cb-ad407fa3f13a",
+            "platform": [
+                {
+                    "displayName": "Android",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/android.png",
+                    "key": "ANDROID"
+                },
+                {
+                    "displayName": "iOS",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/ios.png",
+                    "key": "IOS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "345b24ce-1fe8-47c4-91d1-35b2be5bfaa0",
+            "handle": "pog",
+            "name": "POG Digital",
+            "imageUrl": "https://fractal-media.imgix.net/media_c03b8745-9685-47dc-ae6e-c013ace712ff",
+            "platform": [
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "6308247493410816",
+            "handle": "projecteluune",
+            "name": "Project Eluüne",
+            "imageUrl": "https://fractal-media.imgix.net/media_d3161fb8-8f7f-4484-99e9-c478026909d0",
+            "platform": [
+                {
+                    "displayName": "Web",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                    "key": "WEB"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "f0948eaf-903c-4377-b153-ec7ca3b79d27",
+            "handle": "r-3-v-3-nge",
+            "name": "R3V3NGE",
+            "imageUrl": "https://storage.googleapis.com/fractal-studios/bd220159-7647-424f-9bc4-ec6f0c85695e/ae3fd14a-e75b-4827-8390-6452ad64f136",
+            "platform": [
+                {
+                    "displayName": "macOS",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_mac_osx.png",
+                    "key": "MACOS"
+                },
+                {
+                    "displayName": "Windows",
+                    "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+                    "key": "WINDOWS"
+                }
+            ],
+            "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+            "studio": "FoonieMagus",
+            "genre": [
+                {
+                    "key": "ACTION",
+                    "displayName": "Action",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+                },
+                {
+                    "key": "STRATEGY",
+                    "displayName": "Strategy",
+                    "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+                }
+            ],
+            "network": [
+                {
+                    "displayName": "Ethereum",
+                    "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+                    "key": "ETHEREUM"
+                },
+                {
+                    "displayName": "Polygon",
+                    "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+                    "key": "POLYGON"
+                }
+            ],
+            "statusDisplayName": "Beta",
+            "categories": [
+                {
+                    "key": "FREE_TO_PLAY",
+                    "displayName": "Free To Play",
+                    "imageUrl": ""
+                }
+            ]
+        }
+    ],
+    "nextCursor": "80"
+}

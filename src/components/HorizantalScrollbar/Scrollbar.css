@@ -1,0 +1,35 @@
+.menu-item {
+    padding: 0 10px;
+    margin: 5px 10px;
+    user-select: none;
+    cursor: pointer;
+    border: none;
+  }  
+
+.scroll-menu-arrow {
+  cursor: pointer;
+}
+
+.arrow-prev {
+  position: absolute;
+  transform: translate(0, -240px);
+  right: 40px;
+}
+
+.arrow-next {
+  position: absolute;
+  transform: translate(0, -240px);
+  right: 0px;
+}
+
+.arrow-prev-new {
+  position: absolute;
+  transform: translate(0, -210px);
+  right: 40px;
+}
+
+.arrow-next-new {
+  position: absolute;
+  transform: translate(0, -210px);
+  right: 0px;
+}

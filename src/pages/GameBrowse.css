@@ -1,0 +1,22 @@
+.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: rgb(242, 5, 159) !important;
+}
+
+.css-kc02vp-MuiPaper-root-MuiPopover-paper-MuiMenu-paper {
+    background: #181818 !important;
+}
+
+.css-6hp17o-MuiList-root-MuiMenu-list {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+}
+
+.MuiButtonBase-root .MuiMenuItem-root .MuiMenuItem-gutters .MuiMenuItem-root .MuiMenuItem-gutters .makeStyles-menuItem-18 .css-12wi0s0-MuiButtonBase-root-MuiMenuItem-root {
+    margin-top: 4px !important;
+    margin-bottom: 4px !important;
+}
+
+.css-12wi0s0-MuiButtonBase-root-MuiMenuItem-root {
+    padding: 12px 20px !important;
+    margin: 4px 0px !important;
+}

@@ -1,0 +1,47 @@
+{
+    "data": {
+        "handle": "ev",
+        "title": "ev.io",
+        "description": "Play the best FPS game in your browser. Earn rewards with a weapon or character skin in Fractal events.",
+        "studio": "enthusiast-gaming",
+        "genre": [
+            {
+                "key": "SHOOTERS",
+                "displayName": "Shooters",
+                "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/shooter3.png"
+            }
+        ],
+        "platform": [
+            {
+                "displayName": "Web",
+                "imageUrl": "https://fractal-game-discovery.imgix.net/platform-images/web.png",
+                "key": "WEB"
+            }
+        ],
+        "network": [
+            {
+                "displayName": "Solana",
+                "imageUrl": "https://www.fractal.is/solana-sol-logo.png",
+                "key": "SOLANA"
+            }
+        ],
+        "playNowUrl": {
+            "url": "https://ev.io/",
+            "showInNewTab": true
+        },
+        "categories": [
+            {
+                "key": "MULTIPLAYER",
+                "displayName": "Multiplayer",
+                "imageUrl": ""
+            }
+        ],
+        "supportedDesktopRuntime": [],
+        "banner": {
+            "type": "mp4",
+            "url": "https://fractal-media.imgix.net/media_0d0ce6b3-3a4d-4fb0-9174-fb18cab082a2"
+        },
+        "id": "5701666712059904",
+        "tier": 3
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "handle": "apeiron",
+    "title": "Apeiron",
+    "description": "Explore worlds, dive into dungeons and challenge monsters in this skills-based, real-time card action and RTS combat game. ",
+    "studio": "FoonieMagus",
+    "genre": [
+        {
+            "key": "ACTION",
+            "displayName": "Action",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+        },
+        {
+            "key": "STRATEGY",
+            "displayName": "Strategy",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+        }
+    ],
+    "platform": [
+        {
+            "displayName": "Windows",
+            "imageUrl": "https://fractal-media.imgix.net/icons/platform_windows.png",
+            "key": "WINDOWS"
+        }
+    ],
+    "network": [
+        {
+            "displayName": "Ethereum",
+            "imageUrl": "https://www.fractal.is/ethereum-eth-logo.png",
+            "key": "ETHEREUM"
+        },
+        {
+            "displayName": "Polygon",
+            "imageUrl": "https://www.fractal.is/polygon-matic-logo.png",
+            "key": "POLYGON"
+        }
+    ],
+    "supportedDesktopRuntime": [
+        "DARWIN",
+        "WIN32"
+    ],
+    "statusDisplayName": "Beta",
+    "avatar": {
+        "type": "png",
+        "url": "https://fractal-media.imgix.net/media_a3e5f719-c5b4-41e7-9748-2d187cf354d4"
+    },
+    "banner": {
+        "type": "mp4",
+        "url": "https://storage.googleapis.com/fractal-studios/adfd3dee-0dbf-4a19-b97f-e9380a28eba7/c2300ca2-0db9-49fa-9a95-40cfbbb926fa"
+    },
+    "categories": [
+        {
+            "key": "FREE_TO_PLAY",
+            "displayName": "Free To Play",
+            "imageUrl": ""
+        }
+    ]
+}

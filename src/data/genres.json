@@ -1,0 +1,74 @@
+{
+    "genres": [
+        {
+            "key": "ACTION",
+            "displayName": "Action",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/action.png"
+        },
+        {
+            "key": "RPG",
+            "displayName": "RPG",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/RPG.png"
+        },
+        {
+            "key": "SHOOTERS",
+            "displayName": "Shooters",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/shooter3.png"
+        },
+        {
+            "key": "METAVERSE/SANDBOX",
+            "displayName": "Metaverse & Sandbox",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/metaverse.png"
+        },
+        {
+            "key": "ADVENTURE",
+            "displayName": "Adventure",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Adventure.png"
+        },
+        {
+            "key": "STRATEGY",
+            "displayName": "Strategy",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Strat.png"
+        },
+        {
+            "key": "SIMULATION",
+            "displayName": "Simulation",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/simulation.png"
+        },
+        {
+            "key": "DRIVING_AND_RACING",
+            "displayName": "Racing",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/racing.png"
+        },
+        {
+            "key": "TCG",
+            "displayName": "Trading card game",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Card1.png"
+        },
+        {
+            "key": "LIFESTYLE",
+            "displayName": "Lifestyle",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/Lifestyle.png"
+        },
+        {
+            "key": "SPORTS",
+            "displayName": "Sports",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/sport3.png"
+        },
+        {
+            "key": "ARCADE",
+            "displayName": "Arcade",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/arcade2.png"
+        },
+        {
+            "key": "TOWER DEFENSE",
+            "displayName": "Tower defense",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/TD2.png"
+        },
+        {
+            "key": "MOBA",
+            "displayName": "MOBA",
+            "imageUrl": "https://fractal-game-discovery.imgix.net/genre-images/MOBA.png"
+        }
+    ]
+}
